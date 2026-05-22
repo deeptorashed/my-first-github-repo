@@ -1,0 +1,18 @@
+.main{
+    margin: 25px auto;
+    padding: 25px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    text-align: center;
+    color: black;
+    border-bottom: 5px solid #d8cefe;
+    background-color: #ddebf8;
+    font-family: serif;
+}
+.pic{
+    padding: 0px;
+    width: 150px;
+}
+.detail{
+}
